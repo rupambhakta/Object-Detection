@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detect Object</string>
+    <string name="computer_setup">computer setup</string>
+    <string name="this_obj_is_a">"The obj is : "</string>
+</resources>
